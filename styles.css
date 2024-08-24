@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body {
+    height: 100vh;
+}
