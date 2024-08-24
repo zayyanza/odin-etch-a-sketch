@@ -4,6 +4,16 @@
     width: 480px;
 }
 
+.btn {
+    height: 28px;
+    width: 80px;
+    margin: 28px;
+}
+
 body {
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
