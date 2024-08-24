@@ -8,6 +8,7 @@ for (let i = 0; i < 256; i++) {
     grid.style.height = "30px";
     grid.style.backgroundColor = "lightblue";
     grid.style.border = "1px solid black";
+    grid.style.boxSizing = "border-box";
     container.appendChild(grid);
 }
 
